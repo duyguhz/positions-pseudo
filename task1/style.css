@@ -1,0 +1,71 @@
+.photo{
+   
+    
+   background-image: url(https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1610697181000/photosp/1a2b69b0-210e-491e-967a-6cb66bae465c/stock-photo-indian-old-man-indian-tourist-an-indian-old-man-standing-indian-man-wearing-specks-old-man-standing-tourist-bag-indian-holding-hands-together-1a2b69b0-210e-491e-967a-6cb66bae465c.jpg);
+   width: 601px;
+    height: 606px;
+    position: relative;
+    margin: 30px;
+}
+.text-photo{
+    width: 150px;
+    height: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-family:sans-serif
+    
+    
+}
+.post-date{
+    width: 290px;
+    height: 20px;
+    background-color: white;
+    font-family: 'Barlow', sans-serif;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    color: lightgray;
+    
+   
+    
+    
+    
+}
+.main-text{
+    width: 600px;
+    height: 100px;
+    background-color: white;
+    font-family: 'Mingzat', sans-serif;
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+    word-spacing:normal;
+    line-height: 37px;
+    color: rgb(33, 32, 32);
+    letter-spacing: 2px;
+
+   
+    
+   
+   
+}
+.text .more-text{
+  width: 480px;
+  height: 25px;
+  background-color: white;
+  font-family: 'Barlow', sans-serif;
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px;
+  color: rgb(33, 32, 32);
+  
+  
+ 
+  
+}
+.trending{
+    margin: 30px;
+}
+
