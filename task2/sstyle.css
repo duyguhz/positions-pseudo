@@ -1,0 +1,96 @@
+.main-frame{
+    height: 100px;
+    width: 100%;
+    border: 4px solid black;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin: 0 auto;
+    position: relative;
+}
+.block-1{
+    width: 70px;
+    height: 65px;
+    background-color: yellow;
+    position: absolute;
+    display: inline-block;
+    bottom: 12%;
+    left: 5%;
+   
+    
+}
+.block-2{
+    width: 550px;
+    height: 65px;
+    background-color: yellow;
+    position: absolute;
+    display: inline-block;
+    bottom: 50px;
+    bottom: 10px;
+    left: 341px;
+   top: 15px;
+    
+    
+   
+}
+
+.block-3{
+    width: 150px;
+    height: 65px;
+    background-color: yellow;
+    position: absolute;
+    display: inline-block;
+    left: 85%;
+    top: 15px;
+    
+}
+.block-inside-1{
+    width: 156px;
+    height: 48px;
+    background-color: rgb(2, 188, 250);
+    display: inline-block;
+    position: absolute;
+    bottom: 2px;
+    right: 362px;
+   
+   
+   
+    
+}
+.mini-block{
+    width: 45px;
+    height: 35px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+
+}
+.block-inside-2{
+    width: 156px;
+    height: 40px;
+    background-color: rgb(2, 188, 250);
+    position: absolute;
+   left: 40%;
+   bottom: 2px;
+
+
+}
+.block-inside-3{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(2, 188, 250);
+    position: absolute;
+    right: 20px;
+    bottom: 2px;
+
+}
+.mini-frame{
+    height: 66x;
+    width: 65px;
+    border: rgb(77, 212, 77) solid 4px; 
+   position: absolute;
+ top: 5px;
+ bottom: 5px;
+ left: 38px;
+}
+
+

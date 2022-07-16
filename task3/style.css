@@ -1,0 +1,38 @@
+.main-section{
+    width: 98%;
+    height:30%;
+    border: 5px solid black;
+    position: relative;
+    overflow: scroll;
+   
+}
+*{
+    box-sizing: border-box;
+}
+h1{
+    background-color: rgb(177, 175, 173);
+    position: sticky;
+    margin: 0;
+}
+.heading{
+    background-color: white;
+}
+dd{
+    margin: 0;
+  padding: 0;
+  
+}
+h1{
+    padding: 8px;
+    font-family: serif;
+   
+    
+}
+
+
+
+
+
+
+
+
